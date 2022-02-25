@@ -9,7 +9,7 @@ public class PersonController {
 	@RequestMapping("/getname")
 	public String getName()
 	{
-		return "Rohan";
+		return "I am Rohan. I work in Trivium!";
 	}
 
 }
